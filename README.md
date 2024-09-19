@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm J. Alejandro Solarte R.</h1>
 <h3 align="center">A bilingual FrontEnd Developer & UX Designer from Colombia 🇨🇴</h3>
 
+<p align="left">I am a bilingual interactive design student with an emphasis in Front-end Development and UX Design, with experience working and leading multidisciplinary teams within agile frameworks. My proactive approach to problem solving allows me to face and overcome multiple challenges, focusing on analyzing and understanding user needs to create intuitive and rewarding digital experiences. As a passionate learner of new technologies, I employ my active listening skills to constantly improve and grow both personally and professionally in the dynamic technology sector.</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asunart" alt="asunart" /></a> </p>
 
 - 💬 Ask me about **React.js, Next.js, HTML, CSS, Javascript**
